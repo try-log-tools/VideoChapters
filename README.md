@@ -1,0 +1,2 @@
+# VideoChapters
+動画のマーカー情報からYouTube用チャプター一覧を作成するWindowsアプリ
